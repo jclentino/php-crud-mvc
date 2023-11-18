@@ -16,7 +16,7 @@ Este repositorio contiene una aplicación web escrita con php utilizando una arq
     cd nombre-proyecto
     ```
 
-2. Ubicado en la carpeta del proyecto, construye las imagenes 
+2. Crea una carpeta db_data en la raiz del proyecto y ubicado en la raiz, construye las imagenes 
 
     ```
     docker-compose build
